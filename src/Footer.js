@@ -7,7 +7,7 @@ function Footer() {
       <div className="top">
         <nav>
           <a
-            href="https://github.com/mkotik/nasa-photo-of-the-day/tree/marat-kotik"
+            href="https://github.com/mkotik/NASA_DailyAstronomyAPI"
             target="_blank"
           >
             Repository
